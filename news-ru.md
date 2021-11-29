@@ -1,7 +1,7 @@
 <div class="block-inner">
     <span class="news_header"> Последние новости: </span><br />
     
-    <a class="news_link" href="https://funpay.ru/lots/212/" target="_blank" title=" Откроется в новом окне ">[FunPay] Коплю на акк с 10к голды)</a><br/>
+    <a class="news_link" href="https://funpay.ru/lots/212/" target="_blank" title=" Откроется в новом окне ">[FunPay] Я гуль</a><br/>
     <span class="news_date">4 сентября 2020</span><br /><br />
 
     <a class="news_link" href="https://youtu.be/UqKA19CwDUE" target="_blank" title=" Откроется в новом окне ">[Новости] ПОДПИСЫВАЙТЕСЬ НА ВЗРЫВНОГО</a><br/>
@@ -13,7 +13,7 @@
     <a class="news_link" href="https://crossout.net/ru/" target="_blank" title=" Откроется в новом окне ">[Видео] Сассаут шоу: Чел дрифтит в гараже на арте с выставки и получает 1000 монет</a><br/>
     <span class="news_date">3 сентября 2020</span><br /><br />
 
-    <a class="news_link" href="https://crossout.net/ru/" target="_blank" title=" Откроется в новом окне ">[Обновление] НЕРФ ВСЕГО И ДОБАВЛЕНИЕ [DEV]</a><br/>
+    <a class="news_link" href="https://crossout.net/ru/" target="_blank" title=" Откроется в новом окне ">[Рофл] Сергкомп гей</a><br/>
     <span class="news_date">3 сентября 2020</span><br /><br />
 
     <a class="news_link" href="https://crossout.net/ru/" target="_blank" title=" Откроется в новом окне ">[Донат] Ждите донатный бесполезный декор</a><br/>
